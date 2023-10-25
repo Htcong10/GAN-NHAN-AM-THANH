@@ -1,7 +1,5 @@
 # LSTM Audio Classification
 
-Author:  Ho Trung Cong 20194237
-
 ## ***Description***:
 
 ### This program:
